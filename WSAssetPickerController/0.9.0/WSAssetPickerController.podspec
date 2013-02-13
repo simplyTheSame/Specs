@@ -11,6 +11,6 @@ Pod::Spec.new do|s|
     s.platform = :ios, 5.0
     s.framework = 'QuartzCore', 'AssetsLibrary', 'UIKit', 'CoreGraphics'
     s.requires_arc = true
-    s.resources = 'demo/WSAssetViewSelectionIndicator.png','demo/WSAssetViewSelectionIndicator@2x.png', 'demo/*.lproj/Localizable.strings'
+    s.resources = 'demo/WSAssetViewSelectionIndicator.png','demo/WSAssetViewSelectionIndicator@2x.png', 'demo/*.lproj/WSAssetPicker.strings'
     s.prefix_header_file = 'demo/WSAssetPickerController-Prefix.pch'
 end
