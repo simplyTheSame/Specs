@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, '5.0'
 
-  s.source_files = 'FGallery/Classes', 'FGallery/Classes/**/*.{h,m}'
+  s.source_files = 'FGallery/Classes/**/*.{h,m}'
   s.public_header_files = 'FGallery/Classes/**/*.h'
 
   # s.resource  = "icon.png"
