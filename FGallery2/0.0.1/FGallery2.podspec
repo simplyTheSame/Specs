@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.author       = { "Grant Davis" => "grant@grantdavisinteractive.com", "Samuel Mellert" => "samuel.mellert@arconsis.com" }
   
-  s.source       = { :git => "https://github.com/simplyTheSame/FGallery-iPhone.git" , :branch => 'v2.0', :commit => '01cb76daff72099fdc13a83dd67477292ac4011f' }
+  s.source       = { :git => "https://github.com/simplyTheSame/FGallery-iPhone.git" , :branch => 'v2.0', :commit => 'a1280acd0cec8017fdaaec3c74ccc4eee2693746' }
 
   s.platform     = :ios, '5.0'
 
